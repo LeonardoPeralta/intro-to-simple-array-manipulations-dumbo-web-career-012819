@@ -11,7 +11,7 @@ def using_pop(array)
   return last_elem
 end
 
-def pop_with_args(array1, array2)
+def pop_with_args(array)
   last_elems = array.pop(2)
   return last_elems
 end
