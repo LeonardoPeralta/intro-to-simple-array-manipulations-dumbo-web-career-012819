@@ -20,3 +20,8 @@ def using_shift(array)
   last_elem = array.shift
   return last_elem
 end
+
+def shift_with_args(array)
+  last_elems = array.shift(2)
+  return last_elems
+end
