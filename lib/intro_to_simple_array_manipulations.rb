@@ -25,3 +25,7 @@ def shift_with_args(array)
   last_elems = array.shift(2)
   return last_elems
 end
+
+def using_concat(arr1, arr2)
+  
+end
