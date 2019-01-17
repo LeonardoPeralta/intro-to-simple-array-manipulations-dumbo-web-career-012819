@@ -8,5 +8,5 @@ end
 
 def using_pop(array)
   last_elem = array.pop(array)
-  puts
+return last_elem 
 end
